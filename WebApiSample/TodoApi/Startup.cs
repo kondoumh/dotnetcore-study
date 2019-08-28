@@ -11,9 +11,9 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
-using webapi.Models;
+using TodoApi.Models;
 
-namespace webapi
+namespace TodoApi
 {
     public class Startup
     {

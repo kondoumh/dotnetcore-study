@@ -9,9 +9,9 @@
       "type": "coreclr",
       "request": "launch",
       "preLaunchTask": "build",
-      "program": "${workspaceFolder}/webapi/bin/Debug/netcoreapp2.2/webapi.dll",
+      "program": "${workspaceFolder}/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.dll",
       "args": [],
-      "cwd": "${workspaceFolder}/webapi",
+      "cwd": "${workspaceFolder}/TodoApi",
       "stopAtEntry": false,
       "serverReadyAction": {
         "action": "openExternally",
