@@ -1,6 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
@@ -9,7 +6,7 @@ using RazorPagesMovie.Models;
 
 namespace RazorPagesMovie.Pages.Movies
 {
-    public class DeleteModel : PageModel
+  public class DeleteModel : PageModel
     {
         private readonly RazorPagesMovie.Models.RazorPagesMovieContext _context;
 
