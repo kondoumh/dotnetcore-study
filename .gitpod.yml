@@ -3,3 +3,6 @@ image:
 
 tasks:
   - command: export TZ="Asia/Tokyo"
+vscode:
+  extensions:
+    - ms-vscode.csharp@1.21.5:L1UR0rKjGSDRA3zUSyHwZQ==
